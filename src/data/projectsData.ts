@@ -16,7 +16,7 @@ export const projects: Project[] = [
     id: 'project-2',
     title: 'Whatsapp Clone',
     description: 'A real-time chat application that replicates core features of WhatsApp including user authentication, chat list, message bubbles, typing indicators, and dark/light theme support. Built using React, Firebase, and Tailwind CSS.',
-    image: './src/assets/images/Whatsapp.jpg',
+    image: './src/assets/images/whatsapp.jpg',
     tags: ['React', 'Firebase', 'Tailwind CSS', 'TypeScript'],
     githubUrl: 'https://github.com/mohazhar',
     // liveUrl: 'https://task-app-demo.netlify.app',
